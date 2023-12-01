@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02e6e614cf2f4802878d2e2d5e2260a3, type: 3}
+  m_Name: Loot 1
+  m_EditorClassIdentifier: 
+  Name: Loot_1
+  Icon: {fileID: 2070524214, guid: 85b28eed75db7384ea6650cfad7348bb, type: 3}
+  MaxCount: 64
+  "\u0421raft":
+  - Item: {fileID: 11400000, guid: 401e1021188b3484d9e781cc9e0b8e5b, type: 2}
+    Count: 12
+    Empty: 1
+    Craft: 1
+  IsBuild: {fileID: 0}
+  Type: 
+  Level: 0
+  IsGun: 1
